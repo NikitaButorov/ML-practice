@@ -1,0 +1,8 @@
+(lp0
+S'poi'
+p1
+aS'bonus_salary_ratio'
+p2
+aS'poi_total_messages'
+p3
+a.
